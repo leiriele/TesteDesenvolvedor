@@ -13,6 +13,7 @@ Esse número pode ser informado através de qualquer entrada de sua preferência
 • Número de dias no mês em que o valor de faturamento diário foi superior à média mensal.
 
 IMPORTANTE:
+
 a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
 b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 
